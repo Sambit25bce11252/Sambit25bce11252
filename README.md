@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Sambit! 👋  
 
-<!--
-**Sambit25bce11252/Sambit25bce11252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a First Year B.Tech student at VIT Bhopal University.  
 
-Here are some ideas to get you started:
+**Branch:** Computer Science and Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus  
+I am currently focusing on building a strong foundation in digital literacy and enhancing my core programming skills.  
+
+## 🎯 Learning Goals  
+Over the next year, I aim to strengthen my understanding of Python and explore web development, along with gaining practical experience through real-world projects and collaboration.  
+
+---
+
+Feel free to explore my repositories! 😊
