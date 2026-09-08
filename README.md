@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=180&section=header&text=SAMBIT%20KUMAR%20GARANAYAK&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Computer%20Science%20%7C%20AI%20%26%20Systems&descAlignY=55&descSize=18" width="100%" />
+# Hi, I'm Sambit! 👋
 
-<!-- Concept 1: Interactive Terminal Interface -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&color=00F0FF&background=0D1117&center=false&vCenter=true&width=580&lines=%24+whoami;Sambit+Kumar+Garanayak+[Core+CSE];%24+cat+active_systems.log;--%3E+Project+Abhedya+[Zero-Day+Detection];--%3E+AI+Maze+Engine+[BFS+%2F+DFS+%2F+A*];%24+git+status;Working+tree+clean.+Building+scalable+tools..." alt="Interactive Terminal" />
+<!-- Dynamic Neon Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&lines=Computer+Science+Undergrad;Cybersecurity+%26+Algorithmic+Tools;Frontend+Contributor+%40+Eureka;Building+Zero-Day+Defense+Pipelines" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### ⚡ Systems & Core Focus
-* 💻 **Computer Science (Core):** Focusing on core programming fundamentals, modular design, and algorithmic logic.
-* 🛡️ **Intelligent Defense:** Prototyping zero-day threat detection tools and heuristic search engines.
-* 🌐 **Frontend Development:** Building responsive, modular web components and structured interfaces.
+### ⚡ Systems & Focus
+* 💻 **Computer Science (Core):** Deepening algorithmic foundations, modular design, and core programming concepts.
+* 🛡️ **Security & AI:** Building zero-day threat detection prototypes and heuristic search implementations.
+* 🌐 **Frontend Development:** Crafting clean interfaces, accessible page structures, and interactive layouts.
+* 🎯 **Current Goal:** Shipping practical, scalable tools while mastering core web and software paradigms.
 
 ---
-
 
 
 ### 🛠️ Tech Stack & Arsenal
