@@ -12,17 +12,10 @@
 ---
 
 ### ⚡ Systems & Focus
-* 💻 **Computer Science (Core):** Deepening algorithmic foundations, modular design, and systems concepts.
+* 💻 **Computer Science (Core):** Deepening algorithmic foundations, modular design, and core programming concepts.
 * 🛡️ **Security & AI:** Building zero-day threat detection prototypes and heuristic search implementations.
 * 🌐 **Frontend Development:** Crafting clean interfaces, accessible page structures, and interactive layouts.
-* 🎯 **Current Goal:** Shipping practical, scalable tools while mastering core backend and programming paradigms.
-
----
-
-### 🏆 Engineering Badges & Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambit25bce11252&theme=radical&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies" />
-</div>
+* 🎯 **Current Goal:** Shipping practical, scalable tools while mastering core web and software paradigms.
 
 ---
 
@@ -34,7 +27,7 @@
 | :--- | :--- |
 | **Core Languages** | <img src="https://skillicons.dev/icons?i=py,cpp,js&theme=dark" /> |
 | **Web & Styling** | <img src="https://skillicons.dev/icons?i=html,css&theme=dark" /> |
-| **Environment & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
+| **Environment & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> |
 
 </div>
 
@@ -50,33 +43,23 @@
 
 ---
 
-### 📈 Contribution Waveform
-*Real-time frequency telemetry of repository commits and pull requests.*
+### 📊 Live GitHub Activity
+*Real-time commit telemetry updated continuously.*
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit25bce11252&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=00F0FF&point=22C55E&area=true&hide_border=true" alt="Activity Waveform" />
-</div>
-
----
-
----
-
-### 📊 Live Telemetry & Streaks
-
-<div align="center">
-  <!-- Stable Stats Card -->
-  <img height="160em" src="https://stats.justsamir.dev/api?username=Sambit25bce11252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <!-- Stable Streak Stats -->
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambit25bce11252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Reliable Streak Stats -->
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambit25bce11252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Most Used Languages (Reliable Mirror) -->
-  <img height="160em" src="https://stats.justsamir.dev/api/top-langs/?username=Sambit25bce11252&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Compact Badges for Activity -->
+  <img src="https://img.shields.io/badge/Status-Active_Developer-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms_%26_Web-7C3AED?style=for-the-badge&logo=codepen&logoColor=white" />
 </div>
 
+---
 
 ### 📬 Let's Connect!
 
