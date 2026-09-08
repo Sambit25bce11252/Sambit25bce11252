@@ -59,20 +59,24 @@
 
 ---
 
-### 📊 Live GitHub Telemetry
+---
+
+### 📊 Live Telemetry & Streaks
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Sambit25bce11252&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambit25bce11252&theme=tokyonight" />
+  <!-- Stable Stats Card -->
+  <img height="160em" src="https://stats.justsamir.dev/api?username=Sambit25bce11252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- Stable Streak Stats -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambit25bce11252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit25bce11252&layout=compact&theme=tokyonight" />
+  <!-- Most Used Languages (Reliable Mirror) -->
+  <img height="160em" src="https://stats.justsamir.dev/api/top-langs/?username=Sambit25bce11252&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
----
 
 ### 📬 Let's Connect!
 
